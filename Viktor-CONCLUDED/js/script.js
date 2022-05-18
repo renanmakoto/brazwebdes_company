@@ -27,9 +27,3 @@ $(function(){
     })
 }
 )
-//function resizeAdapt(mw) {
-//    if (mw.matches) {
-//        document.getElementsByClass("h1").innerHTML = "Viktor Danko Filmmaking";
-//    }
-//}
-//var mw = window.matchMedia("(max-width: 1100px)")
