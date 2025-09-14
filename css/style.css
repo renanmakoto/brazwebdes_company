@@ -3,9 +3,9 @@
 :root {
   --header-height: 3rem;
   --hue-color: 250;
-  --first-color: #00ADA2;
-  --first-color-second: #00ADA2;
-  --first-color-alt: #00ADA2;
+  --first-color: #0B4FFF;
+  --first-color-second: #00A86B;
+  --first-color-alt: #F7C853;
   --first-color-lighter: #00ADA2;
   --text-color-light: hsl(var(--hue-color), 8%, 65%);
   --body-color: hsl(var(--hue-color), 60%, 99%);
@@ -69,7 +69,7 @@ body.dark-theme {
 }
 
 .change-theme:hover {
-  color: var(--first-color);
+  color: var(--first-color-alt);
 }
 
 .header,
@@ -177,7 +177,7 @@ img {
 }
 
 .nav-logo:hover {
-  color: var(--first-color);
+  color: var(--first-color-alt);
 }
 
 .nav-toggle {
@@ -218,7 +218,7 @@ img {
 }
 
 .nav-link:hover {
-  color: var(--first-color);
+  color: var(--first-color-alt);
 }
 
 .nav-icon {
@@ -310,6 +310,7 @@ img {
 
 .home-scroll-button:hover {
   transform: translateY(0.25rem);
+  color: var(--first-color-alt);
 }
 
 .home-scroll-mouse {
@@ -373,7 +374,7 @@ img {
 
 .button-link:hover {
   background-color: transparent;
-  color: #00ADA2;
+  color: var(--first-color-alt);
 }
 
 .about-img {
