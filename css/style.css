@@ -1,2484 +1,973 @@
-/*NORMALNORMALNORMALNORMALNORMALNORMALNORMALNORMALNORMALNORMAL*/
-/*1600px1600px1600px1600px1600px1600px1600px1600px1600px1600px*/
-html{
-    background-color: #313b42;
-}
-.text-foot{
-    color: white;
-    text-align: center;
-}
-#header{
-    background-color: #abaeb0;
-    margin-top: 30px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-left: 200px;
-    margin-right: 200px;
-    border-radius: 50px;
-    font-size: 25px;
-}
-h1 {
-    text-align: center;
-    font-family: 'Permanent Marker', cursive;
-}
-.menu-principal{
-    text-align: center;
-    word-spacing: 50px;
-    margin-top: 30px;
-    background-color: #abaeb0;
-    margin-left: 120px;
-    margin-right: 120px;
-    border-radius: 50px;
-    font-size: 25px;
-}
-.menu-principal :hover{
-    color: blanchedalmond;
-}
-.sobre {
-    color: black;
-    font-family: 'Permanent Marker', cursive;
-    text-decoration: none;
-}
-.acade {
-    color: black;
-    font-family: 'Permanent Marker', cursive;
-    text-decoration: none;
-}
-.exp {
-    color: black;
-    font-family: 'Permanent Marker', cursive;
-    text-decoration: none;
-}
-.port {
-    color: black;
-    font-family: 'Permanent Marker', cursive;
-    text-decoration: none;
-}
-.skills {
-    color: black;
-    font-family: 'Permanent Marker', cursive;
-    text-decoration: none;
-}
-.personal{
-    color: black;
-    font-family: 'Permanent Marker', cursive;
-    text-decoration: none;
-}
-.cont {
-    color: black;
-    font-family: 'Permanent Marker', cursive;
-    text-decoration: none;
-}
-.content{
-    margin-top: 20px;
-    margin-left: 150px;
-    margin-right: 150px;
-}
-.descricao{
-    text-align: center;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    font-size: 25px;
-}
-.brinsta{
-    font-family: 'Patrick Hand', cursive;
-    text-decoration: none;
-    cursor: pointer;
-    color: rgb(9, 219, 9);
-}
-#perfil{
-    margin-top: 35px;
-    text-align: center;
-}
-#pro{
-    width: 250px;
-    border: 5px solid white;
-    border-radius: 150px;
-}
-.graduation{
-    margin-top: 30px;
-    margin-left: 150px;
-    margin-right: 150px;
-}
-.primeiragrad{
-    text-align: center;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    font-size: 25px;
-    margin-top: 10px;
-    padding-left: 35px;
-    padding-right: 35px;
-    padding-bottom: 20px;
-}
-.subtitles{
-    margin-top: 10px;
-    text-align: center;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    font-size: 25px;
-}
-.wrap{
-    margin-top: -10px;
-}
-.bloco1{
-    margin: 30px;
-    background-color: #737373;
-    border: 5px solid white;
-    border-radius: 40px;
-}
-.subsub{
-    font-family: 'Patrick Hand', cursive;
-    font-size: 50px;
-    color:#c9c9c9;
-    text-align: center;
-}
-#forma-academica{
-    margin-top: 20px;
-}
-#forma-pro{
-    margin-top: 15px;
-}
-#forma-hab{
-    margin-top: 15px;
-}
-#forma-spec{
-    margin-top: 40px;
-}
-#forma-idi{
-    margin-top: 40px;
-}
-.profi{
-    margin-top: 30px;
-    margin-left: 200px;
-    margin-right: 200px;
-}
-.bloco2{
-    margin: 30px;
-    background-color: #737373;
-    border: 5px solid white;
-    border-radius: 40px;
-}
-.segundagrad{
-    text-align: center;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    font-size: 25px;
-    margin-top: -5px;
-    padding-left: 35px;
-    padding-right: 35px;
-    padding-bottom: 20px;
-}
-.abilities{
-    margin-top: 30px;
-    margin-left: 500px;
-    margin-right: 500px;
-}
-#abilities1{
-    font-size: 50px;
-    text-align: center;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.terceiragrad{
-    text-align: left;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    font-size: 25px;
-    margin-top: -5px;
-    padding-left: 35px;
-    padding-right: 35px;
-}
-.bloco3{
-    background-color: #737373;
-    border: 5px solid white;
-    border-radius: 40px;
-    height: 580px;
-    width: 450px;
-    margin-left: 50px;
-}
-.cheioimg{
-    width: 35px;
-    height: 30px;
-}
-.sw1{
-    margin-bottom: 10px;
-    margin-left: 20px;
-}
-.subtitles-soft{
-    margin-top: 10px;
-    text-align: left;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    margin-left: 55px;
-    font-size: 25px;
-}
-.wrap2{
-    text-align: center;
-    margin-top: -470px;
-    margin-left: 250px;
-}
-.subtitles-extra{
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    font-size: 25px;;
-    margin-top: -94px;
-    margin-left: 320px;
-}
-.sw2{
-    margin-top: 30px;
-}
-.quartagrad{
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    margin-top: 25px;
-    font-size: 25px;;
-}
-.bloco4{
-    width: 100%;  
-}
-.spectitle{
-    font-family: 'Patrick Hand', cursive;
-    font-size: 30px;
-    color:#c9c9c9;
-    text-align: center;
-}
-.spec2{
-    text-align: center;
-    word-spacing: 5px;
-    margin-top: 30px;
-    margin-left: 120px;
-    margin-right: 120px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.specicon{
-    align-items: center;
-    width: 55px;
-    height: 50px;
-}
-.idititle{
-    font-family: 'Patrick Hand', cursive;
-    font-size: 30px;
-    color:#c9c9c9;
-    text-align: center;
-}
-.idieng{
-    text-align: center;
-    word-spacing: 5px;
-    margin-top: 30px;
-    margin-left: 100px;
-    margin-right: 120px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.idicon{
-    margin-bottom: -25px;
-}
-.idiesp{
-    text-align: center;
-    word-spacing: 5px;
-    margin-top: 30px;
-    margin-left: 130px;
-    margin-right: 120px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.idifre{
-    text-align: center;
-    word-spacing: 5px;
-    margin-top: 30px;
-    margin-left: 170px;
-    margin-right: 120px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-#subsub1-nada{
-    margin-top: 100px;
-    margin-bottom: -10px;
-}
-.hobbiesbox{
-    margin-top: 100px;
-}
-.hobtitle{
-    font-family: 'Patrick Hand', cursive;
-    font-size: 30px;
-    color:#c9c9c9;
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: -10px;
-}
-.column1{
-    margin-left: 270px;
-}
-.cinemadiv{
-    word-spacing: 5px;
-    margin-top: 30px;
-    margin-left: 5px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.naturediv{
-    word-spacing: 5px;
-    margin-top: -55px;
-    margin-left: 205px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.musicdiv{
-    word-spacing: 5px;
-    margin-top: -55px;
-    margin-left: 435px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.videogamediv{
-    word-spacing: 5px;
-    margin-top: -55px;
-    margin-left: 650px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.theatrediv{
-    word-spacing: 5px;
-    margin-top: -55px;
-    margin-left: 950px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.travellingdiv{
-    word-spacing: 5px;
-    margin-top: 30px;
-    margin-left: 5px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.photodiv{
-    word-spacing: 5px;
-    margin-top: -55px;
-    margin-left: 205px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.fitnessdiv{
-    word-spacing: 5px;
-    margin-top: -55px;
-    margin-left: 435px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.moneydiv{
-    word-spacing: 5px;
-    margin-top: -55px;
-    margin-left: 650px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.booksdiv{
-    word-spacing: 5px;
-    margin-top: -55px;
-    margin-left: 950px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.column2{
-    margin-left: 270px;
-}
-.cinema{
-    width: 50px;
-    height: 50px;
-}
-.nature{
-    width: 50px;
-    height: 50px;
-}
-.music{
-    width: 50px;
-    height: 50px;
-}
-.videogame{
-    width: 50px;
-    height: 50px;
-}
-.theatre{
-    width: 50px;
-    height: 50px;
-}
-.travelling{
-    width: 50px;
-    height: 50px;
-}
-.photo{
-    width: 50px;
-    height: 50px;
-}
-.fitness{
-    width: 50px;
-    height: 50px;
-}
-.money{
-    width: 50px;
-    height: 50px;
-}
-.books{
-    width: 50px;
-    height: 50px;
-}
-.portbox{
-    margin-top: 90px;
-}
-.column3{
-    margin-left: 220px;
-}
-.behancediv{
-    word-spacing: 5px;
-    margin-top: 30px;
-    margin-left: 150px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    cursor: pointer;
-}
-.behance{
-    width: 50px;
-    height: 50px;
-}
-.instagramdiv{
-    word-spacing: 5px;
-    margin-top: -40px;
-    margin-left: 380px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    cursor: pointer;
-}
-.instagram{
-    width: 50px;
-    height: 50px;
-}
-.youtubediv{
-        word-spacing: 5px;
-        margin-top: -40px;
-        margin-left: 630px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-}
-.youtube{
-    width: 50px;
-    height: 50px;
-}
-.facebookdiv{
-        word-spacing: 5px;
-        margin-top: -40px;
-        margin-left: 870px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-}
-.facebook{
-    width: 50px;
-    height: 50px;
-}
-.behancelink{
-    text-decoration: none;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.instagramlink{
-    text-decoration: none;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.youtubelink{
-    text-decoration: none;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.facebooklink{
-    text-decoration: none;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.linkdivin{
-    margin-top: -50px;
-    margin-left: 60px;
-    cursor: pointer;
-}
-.contatobox{
-    margin-top: 90px;
-}
-.column4{
-    margin-left: 130px;
-    margin-top: 68px;
-}
-.whatsappdiv{
-    word-spacing: 5px;
-    margin-top: -25px;
-    margin-left: 105px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.whatsapplink{
-    margin-top: -5px;
-}
-.whatsapp{
-    width: 50px;
-    height: 50px;
-}
-.instagrampersonaldiv{
-    word-spacing: 5px;
-    margin-top: -75px;
-    margin-left: 457px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    cursor: pointer;
-}
-.instagrampersonal{
-    width: 50px;
-    height: 50px;
-}
-.emaildiv{
-    word-spacing: 5px;
-    margin-top: -40px;
-    margin-left: 730px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.email{
-    width: 50px;
-    height: 50px;
-}
-.linkedindiv{
-    word-spacing: 5px;
-    margin-top: -42px;
-    margin-left: 1075px;
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    cursor: pointer;
-}
-.linkedin{
-    width: 50px;
-    height: 50px;
-}
-.linkdivin1{
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-    margin-top: -50px;
-    margin-left: 60px;
-}
-.whatsapplink{
-    text-decoration: none;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-.footer{
-    margin-top: 400px;
-    padding-bottom: 100px;
-}
-.text-foot{
-    font-size: 25px;
-    font-family: 'Patrick Hand', cursive;
-    color:#c9c9c9;
-}
-#hobbies2{
-    display: none;
-}
-.abilitiesmobile{
-    display: none;
-}
-/*1366px1366px1366px1366px1366px1366px1366px1366px1366px1366px*/
-@media screen and (max-width: 1366px){
-    html{
-        background-color: #313b42;
-    }
-    .text-foot{
-        color: white;
-        text-align: center;
-    }
-    #header{
-        background-color: #abaeb0;
-        margin-top: 30px;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        margin-left: 200px;
-        margin-right: 200px;
-        border-radius: 50px;
-        font-size: 25px;
-    }
-    h1 {
-        text-align: center;
-        font-family: 'Permanent Marker', cursive;
-    }
-    .menu-principal{
-        text-align: center;
-        word-spacing: 50px;
-        margin-top: 30px;
-        background-color: #abaeb0;
-        margin-left: 120px;
-        margin-right: 120px;
-        border-radius: 50px;
-        font-size: 25px;
-    }
-    .menu-principal :hover{
-        color: blanchedalmond;
-    }
-    .sobre {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .acade {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .exp {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .port {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .skills {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .personal{
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .cont {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .content{
-        margin-top: 20px;
-        margin-left: 150px;
-        margin-right: 150px;
-    }
-    .descricao{
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-    }
-    .brinsta{
-        font-family: 'Patrick Hand', cursive;
-        text-decoration: none;
-        cursor: pointer;
-        color: rgb(9, 219, 9);
-    }
-    #perfil{
-        margin-top: 35px;
-        text-align: center;
-    }
-    #pro{
-        width: 250px;
-        border: 5px solid white;
-        border-radius: 150px;
-    }
-    .graduation{
-        margin-top: 30px;
-        margin-left: 150px;
-        margin-right: 150px;
-    }
-    .primeiragrad{
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-        margin-top: 10px;
-        padding-left: 35px;
-        padding-right: 35px;
-        padding-bottom: 20px;
-    }
-    .subtitles{
-        margin-top: 10px;
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-    }
-    .wrap{
-        margin-top: -10px;
-    }
-    .bloco1{
-        margin: 30px;
-        background-color: #737373;
-        border: 5px solid white;
-        border-radius: 40px;
-    }
-    .subsub{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 50px;
-        color:#c9c9c9;
-        text-align: center;
-    }
-    #forma-academica{
-        margin-top: 20px;
-    }
-    #forma-pro{
-        margin-top: 15px;
-    }
-    #forma-hab{
-        margin-top: 15px;
-    }
-    #forma-spec{
-        margin-top: 40px;
-    }
-    #forma-idi{
-        margin-top: 40px;
-    }
-    .profi{
-        margin-top: 30px;
-        margin-left: 200px;
-        margin-right: 200px;
-    }
-    .bloco2{
-        margin: 30px;
-        background-color: #737373;
-        border: 5px solid white;
-        border-radius: 40px;
-    }
-    .segundagrad{
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-        margin-top: -5px;
-        padding-left: 35px;
-        padding-right: 35px;
-        padding-bottom: 20px;
-    }
-    .abilities{
-        margin-top: 30px;
-        margin-left: 500px;
-        margin-right: 500px;
-    }
-    #abilities1{
-        font-size: 50px;
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .terceiragrad{
-        text-align: left;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-        margin-top: -5px;
-        padding-left: 35px;
-        padding-right: 35px;
-    }
-    .bloco3{
-        background-color: #737373;
-        border: 5px solid white;
-        border-radius: 40px;
-        height: 580px;
-        width: 450px;
-        margin-left: -60px;
-    }
-    .cheioimg{
-        width: 35px;
-        height: 30px;
-    }
-    .sw1{
-        margin-bottom: 10px;
-        margin-left: 20px;
-    }
-    .subtitles-soft{
-        margin-top: 10px;
-        text-align: left;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-left: 55px;
-        font-size: 25px;
-    }
-    .wrap2{
-        text-align: center;
-        margin-top: -470px;
-        margin-left: 250px;
-    }
-    .subtitles-extra{
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;;
-        margin-top: -94px;
-        margin-left: 320px;
-    }
-    .sw2{
-        margin-top: 30px;
-    }
-    .quartagrad{
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-top: 25px;
-        font-size: 25px;;
-    }
-    .bloco4{
-        width: 100%;  
-    }
-    .spectitle{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 30px;
-        color:#c9c9c9;
-        text-align: center;
-    }
-    .spec2{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 120px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .specicon{
-        align-items: center;
-        width: 55px;
-        height: 50px;
-    }
-    .idititle{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 30px;
-        color:#c9c9c9;
-        text-align: center;
-    }
-    .idieng{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 100px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .idicon{
-        margin-bottom: -25px;
-    }
-    .idiesp{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 130px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .idifre{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 170px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    #subsub1-nada{
-        margin-top: 100px;
-        margin-bottom: -10px;
-    }
-    .hobbiesbox{
-        margin-top: 100px;
-    }
-    .hobtitle{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 30px;
-        color:#c9c9c9;
-        text-align: center;
-        margin-top: 10px;
-        margin-bottom: -10px;
-    }
-    .cinemadiv{
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 5px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .naturediv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 205px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .musicdiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 435px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .videogamediv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 650px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .theatrediv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 950px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .column1{
-        margin-left: 130px;
-    }
-    .travellingdiv{
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 5px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .photodiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 205px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .fitnessdiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 435px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .moneydiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 650px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .booksdiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 950px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .column2{
-        margin-left: 130px;
-    }
-    .cinema{
-        width: 50px;
-        height: 50px;
-    }
-    .nature{
-        width: 50px;
-        height: 50px;
-    }
-    .music{
-        width: 50px;
-        height: 50px;
-    }
-    .videogame{
-        width: 50px;
-        height: 50px;
-    }
-    .theatre{
-        width: 50px;
-        height: 50px;
-    }
-    .travelling{
-        width: 50px;
-        height: 50px;
-    }
-    .photo{
-        width: 50px;
-        height: 50px;
-    }
-    .fitness{
-        width: 50px;
-        height: 50px;
-    }
-    .money{
-        width: 50px;
-        height: 50px;
-    }
-    .books{
-        width: 50px;
-        height: 50px;
-    }
-    .portbox{
-        margin-top: 90px;
-    }
-    .contatobox{
-        margin-top: 90px;
-    }
-    .column3{
-        margin-left: 80px;
-    }
-    .behancediv{
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 150px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .behance{
-        width: 50px;
-        height: 50px;
-    }
-    .instagramdiv{
-        word-spacing: 5px;
-        margin-top: -40px;
-        margin-left: 380px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .instagram{
-        width: 50px;
-        height: 50px;
-    }
-    .youtubediv{
-            word-spacing: 5px;
-            margin-top: -40px;
-            margin-left: 630px;
-            font-size: 25px;
-            font-family: 'Patrick Hand', cursive;
-            color:#c9c9c9;
-            cursor: pointer;
-    }
-    .youtube{
-        width: 50px;
-        height: 50px;
-    }
-    .facebookdiv{
-            word-spacing: 5px;
-            margin-top: -40px;
-            margin-left: 870px;
-            font-size: 25px;
-            font-family: 'Patrick Hand', cursive;
-            color:#c9c9c9;
-            cursor: pointer;
-    }
-    .facebook{
-        width: 50px;
-        height: 50px;
-    }
-    .behancelink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .instagramlink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .youtubelink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .facebooklink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .linkdivin{
-        margin-top: -50px;
-        margin-left: 60px;
-        cursor: pointer;
-    }
-    .contatobox{
-        margin-top: 90px;
-    }
-    .column4{
-        margin-left: 25px;
-        margin-top: 68px;
-    }
-    .whatsappdiv{
-        word-spacing: 5px;
-        margin-top: -25px;
-        margin-left: 105px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .whatsapplink{
-        margin-top: -5px;
-    }
-    .whatsapp{
-        width: 50px;
-        height: 50px;
-    }
-    .instagrampersonaldiv{
-        word-spacing: 5px;
-        margin-top: -75px;
-        margin-left: 457px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .instagrampersonal{
-        width: 50px;
-        height: 50px;
-    }
-    .emaildiv{
-        word-spacing: 5px;
-        margin-top: -40px;
-        margin-left: 730px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .email{
-        width: 50px;
-        height: 50px;
-    }
-    .linkedindiv{
-        word-spacing: 5px;
-        margin-top: -42px;
-        margin-left: 1075px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .linkedin{
-        width: 50px;
-        height: 50px;
-    }
-    .linkdivin1{
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-top: -50px;
-        margin-left: 60px;
-    }
-    .whatsapplink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .footer{
-        margin-top: 400px;
-        padding-bottom: 100px;
-    }
-    .text-foot{
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    #hobbies2{
-        display: none;
-    }
-    .abilitiesmobile{
-        display: none;
-    }
-    }
-/*1000px1000px1000px1000px1000px1000px1000px1000px1000px1000px*/
-@media screen and (max-width:1000px){
-    html{
-        background-color: #313b42;
-    }
-    .text-foot{
-        color: white;
-        text-align: center;
-    }
-    #header{
-        background-color: #abaeb0;
-        margin-top: 30px;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        margin-left: 200px;
-        margin-right: 200px;
-        border-radius: 50px;
-        font-size: 25px;
-    }
-    h1 {
-        text-align: center;
-        font-family: 'Permanent Marker', cursive;
-    }
-    .menu-principal{
-        text-align: center;
-        word-spacing: 50px;
-        margin-top: 30px;
-        background-color: #abaeb0;
-        margin-left: 120px;
-        margin-right: 120px;
-        border-radius: 50px;
-        font-size: 25px;
-    }
-    .menu-principal :hover{
-        color: blanchedalmond;
-    }
-    .sobre {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .acade {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .exp {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .port {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .skills {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .personal{
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .cont {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .content{
-        margin-top: 20px;
-        margin-left: 150px;
-        margin-right: 150px;
-    }
-    .descricao{
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-    }
-    .brinsta{
-        font-family: 'Patrick Hand', cursive;
-        text-decoration: none;
-        cursor: pointer;
-        color: rgb(9, 219, 9);
-    }
-    #perfil{
-        margin-top: 35px;
-        text-align: center;
-    }
-    #pro{
-        width: 250px;
-        border: 5px solid white;
-        border-radius: 150px;
-    }
-    .graduation{
-        margin-top: 30px;
-        margin-left: 150px;
-        margin-right: 150px;
-    }
-    .primeiragrad{
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-        margin-top: 10px;
-        padding-left: 35px;
-        padding-right: 35px;
-        padding-bottom: 20px;
-    }
-    .subtitles{
-        margin-top: 10px;
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-    }
-    .wrap{
-        margin-top: -10px;
-    }
-    .bloco1{
-        margin: 30px;
-        background-color: #737373;
-        border: 5px solid white;
-        border-radius: 40px;
-    }
-    .subsub{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 50px;
-        color:#c9c9c9;
-        text-align: center;
-    }
-    #forma-academica{
-        margin-top: 20px;
-    }
-    #forma-pro{
-        margin-top: 15px;
-    }
-    #forma-hab{
-        margin-top: 15px;
-    }
-    #forma-spec{
-        margin-top: 40px;
-    }
-    #forma-idi{
-        margin-top: 40px;
-    }
-    .profi{
-        margin-top: 30px;
-        margin-left: 200px;
-        margin-right: 200px;
-    }
-    .bloco2{
-        margin: 30px;
-        background-color: #737373;
-        border: 5px solid white;
-        border-radius: 40px;
-    }
-    .segundagrad{
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-        margin-top: -5px;
-        padding-left: 35px;
-        padding-right: 35px;
-        padding-bottom: 20px;
-    }
-    .abilities{
-        margin-top: 30px;
-        margin-left: 500px;
-        margin-right: 500px;
-    }
-    #abilities1{
-        font-size: 50px;
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-left: -125px;
-    }
-    .terceiragrad{
-        text-align: left;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-        margin-top: -5px;
-        padding-left: 35px;
-        padding-right: 35px;
-    }
-    .bloco3{
-        background-color: #737373;
-        border: 5px solid white;
-        border-radius: 40px;
-        height: 580px;
-        width: 480px;
-        margin-left: -265px;
-    }
-    .cheioimg{
-        width: 35px;
-        height: 30px;
-    }
-    .sw1{
-        margin-bottom: 10px;
-        margin-left: 20px;
-    }
-    .subtitles-soft{
-        margin-top: 10px;
-        text-align: left;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-left: 90px;
-        font-size: 25px;
-    }
-    .wrap1{
-        margin-left: 10px;
-    }
-    .wrap2{
-        text-align: center;
-        margin-top: -470px;
-        margin-left: 250px;
-    }
-    .subtitles-extra{
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;;
-        margin-top: -94px;
-        margin-left: 330px;
-    }
-    .sw2{
-        margin-top: 30px;
-    }
-    .quartagrad{
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-top: 25px;
-        font-size: 25px;;
-    }
-    .bloco4{
-        width: 100%;  
-    }
-    .spectitle{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 30px;
-        color:#c9c9c9;
-        text-align: center;
-    }
-    .spec2{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 120px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .specicon{
-        align-items: center;
-        width: 55px;
-        height: 50px;
-    }
-    .idititle{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 30px;
-        color:#c9c9c9;
-        text-align: center;
-    }
-    .idieng{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 100px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .idicon{
-        margin-bottom: -25px;
-    }
-    .idiesp{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 130px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .idifre{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 170px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .hobbiesbox{
-        margin-top: 100px;
-    }
-    .hobtitle{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 30px;
-        color:#c9c9c9;
-        text-align: center;
-        margin-top: 10px;
-    }
-    .cinemadiv{
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: -55px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .naturediv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 100px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .musicdiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 285px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .videogamediv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 450px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .theatrediv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 650px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .column1{
-        margin-left: 130px;
-    }
-    .travellingdiv{
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: -55px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .photodiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 100px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .fitnessdiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 285px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .moneydiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 450px;
-        font-size: 15px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .booksdiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 650px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .column2{
-        margin-left: 130px;
-    }
-    .cinema{
-        width: 50px;
-        height: 50px;
-    }
-    .nature{
-        width: 50px;
-        height: 50px;
-    }
-    .music{
-        width: 50px;
-        height: 50px;
-    }
-    .videogame{
-        width: 50px;
-        height: 50px;
-    }
-    .theatre{
-        width: 50px;
-        height: 50px;
-    }
-    .travelling{
-        width: 50px;
-        height: 50px;
-    }
-    .photo{
-        width: 50px;
-        height: 50px;
-    }
-    .fitness{
-        width: 50px;
-        height: 50px;
-    }
-    .money{
-        width: 50px;
-        height: 50px;
-    }
-    .books{
-        width: 50px;
-        height: 50px;
-    }
-    .portbox{
-        margin-top: 90px;
-    }
-    .contatobox{
-        margin-top: 90px;
-    }
-    .column3{
-        margin-left: 80px;
-    }
-    .behancediv{
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 10px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .behance{
-        width: 50px;
-        height: 50px;
-    }
-    .instagramdiv{
-        word-spacing: 5px;
-        margin-top: -40px;
-        margin-left: 210px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .instagram{
-        width: 50px;
-        height: 50px;
-    }
-    .youtubediv{
-            word-spacing: 5px;
-            margin-top: -40px;
-            margin-left: 430px;
-            font-size: 25px;
-            font-family: 'Patrick Hand', cursive;
-            color:#c9c9c9;
-            cursor: pointer;
-    }
-    .youtube{
-        width: 50px;
-        height: 50px;
-    }
-    .facebookdiv{
-            word-spacing: 5px;
-            margin-top: -40px;
-            margin-left: 640px;
-            font-size: 25px;
-            font-family: 'Patrick Hand', cursive;
-            color:#c9c9c9;
-            cursor: pointer;
-    }
-    .facebook{
-        width: 50px;
-        height: 50px;
-    }
-    .behancelink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .instagramlink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .youtubelink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .facebooklink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .linkdivin{
-        margin-top: -50px;
-        margin-left: 60px;
-        cursor: pointer;
-    }
-    .column4{
-        margin-left: 10px;
-    }
-    .whatsappdiv{
-        word-spacing: 5px;
-        margin-top: 10px;
-        margin-left: 185px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .whatsapp{
-        width: 50px;
-        height: 50px;
-        margin-top: 50px;
-    }
-    .whatsapplink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-top: -20px;
-    }
-    .instagrampersonaldiv{
-        word-spacing: 5px;
-        margin-top: -70px;
-        margin-left: 557px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .instagrampersonal{
-        width: 50px;
-        height: 50px;
-    }
-    .emaildiv{
-        word-spacing: 5px;
-        margin-top: 40px;
-        margin-left: 185px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .email{
-        width: 50px;
-        height: 50px;
-    }
-    .linkedindiv{
-        word-spacing: 5px;
-        margin-top: -42px;
-        margin-left: 560px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .linkedin{
-        width: 50px;
-        height: 50px;
-    }
-    .linkdivin1{
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-top: -50px;
-        margin-left: 60px;
-    }
-    .footer{
-        margin-top: 400px;
-        padding-bottom: 100px;
-    }
-    .text-foot{
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    #hobbies2{
-        display: none;
-    }
-    .abilitiesmobile{
-        display: none;
-    }
-}
-/*500px500px500px500px500px500px500px500px500px500px*/
-@media screen and (max-width: 500px){
-    html{
-        background-color: #313b42;
-        overflow-x: hidden;
-    }
-    .text-foot{
-        color: white;
-        text-align: center;
-    }
-    #header{
-        background-color: #abaeb0;
-        margin-top: 30px;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        width: 400px;
-        border-radius: 50px;
-        font-size: 25px;
-        margin-left: 35px;
-    }
-    h1 {
-        text-align: center;
-        font-family: 'Permanent Marker', cursive;
-    }
-    .menu-principal{
-        text-align: center;
-        word-spacing: 50px;
-        margin-top: 30px;
-        background-color: #abaeb0;
-        margin-left: 35px;
-        margin-right: 120px;
-        border-radius: 50px;
-        font-size: 25px;
-        width: 400px;
-    }
-    .menu-principal :hover{
-        color: blanchedalmond;
-    }
-    .sobre {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .acade {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .exp {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .port {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .skills {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .personal{
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .cont {
-        color: black;
-        font-family: 'Permanent Marker', cursive;
-        text-decoration: none;
-    }
-    .content{
-        margin-top: 20px;
-        margin-left: 15px;
-        margin-right: 150px;
-        width: 450px;
-    }
-    .descricao{
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-    }
-    .brinsta{
-        font-family: 'Patrick Hand', cursive;
-        text-decoration: none;
-        cursor: pointer;
-        color: rgb(9, 219, 9);
-    }
-    #perfil{
-        margin-top: 35px;
-        text-align: center;
-    }
-    #pro{
-        width: 250px;
-        border: 5px solid white;
-        border-radius: 150px;
-    }
-    .graduation{
-        margin-top: 30px;
-        margin-left: 20px;
-        margin-right: 150px;
-        width: 410px;
-    }
-    .primeiragrad{
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-        margin-top: 10px;
-        padding-left: 35px;
-        padding-right: 35px;
-        padding-bottom: 20px;
-    }
-    .subtitles{
-        margin-top: 10px;
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-    }
-    .wrap{
-        margin-top: -10px;
-    }
-    .bloco1{
-        margin: 30px;
-        background-color: #737373;
-        border: 5px solid white;
-        border-radius: 40px;
-        width: 453px;
-        margin-left: -15px;
-    }
-    .subsub{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 50px;
-        color:#c9c9c9;
-        text-align: center;
-    }
-    #forma-academica{
-        margin-top: 20px;
-        width: 450px;
-        margin-left: -15px;
-    }
-    #forma-pro{
-        margin-top: 15px;
-    }
-    #forma-hab{
-        margin-top: 15px;
-    }
-    #forma-spec{
-        margin-top: 40px;
-    }
-    #forma-idi{
-        margin-top: 40px;
-    }
-    .profi{
-        margin-top: 30px;
-        margin-left: -25px;
-        margin-right: 200px;
-        width: 520px;
-    }
-    .bloco2{
-        margin: 30px;
-        background-color: #737373;
-        border: 5px solid white;
-        border-radius: 40px;
-    }
-    #subsubpro{
-        font-size: 45px;
-    }
-    .segundagrad{
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-        margin-top: -5px;
-        padding-left: 35px;
-        padding-right: 35px;
-        padding-bottom: 20px;
-    }
-    .abilities{
-        margin-top: 50px;
-        margin-left: 55px;
-        margin-right: 500px;
- 
-    }
-    #abilities1{
-        font-size: 50px;
-        text-align: center;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-left: 75px;
-  
-    }
-    .terceiragrad{
-        text-align: left;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;
-        margin-top: -5px;
-        padding-left: 35px;
-        padding-right: 35px;
-        display: none;
-    }
-    .bloco3{
-        background-color: #737373;
-        border: 5px solid white;
-        border-radius: 40px;
-        height: 580px;
-        width: 450px;
-        margin-left: -50px;
-        display: none;
-    }
-    .cheioimg{
-        width: 35px;
-        height: 30px;
-        display: none;
-    }
-    .sw1{
-        margin-bottom: 10px;
-        margin-left: 20px;
-        display: none;
-    }
-    .subtitles-soft{
-        margin-top: 10px;
-        text-align: left;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-left: 55px;
-        font-size: 25px;
-        display: none;
-    }
-    .wrap1{
-        display: none;
-    }
-    .wrap2{
-        text-align: center;
-        margin-top: -470px;
-        margin-left: 250px;
-        display: none;
-    }
-    .subtitles-extra{
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        font-size: 25px;;
-        margin-top: -94px;
-        margin-left: 320px;
-        display: none;
-    }
-    .sw2{
-        margin-top: 30px;
-        display: none;
-    }
-    #iconmobile{
-        width:100px;
-        height: 100px;
-    }
-    .quartagrad{
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-top: 25px;
-        font-size: 25px;
-        display: none;
-    }
-    .bloco4{
-        width: 100%;  
-    }
-    .spectitle{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 30px;
-        color:#c9c9c9;
-        text-align: center;
-    }
-    .spec2{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 120px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .specicon{
-        align-items: center;
-        width: 55px;
-        height: 50px;
-    }
-    .idititle{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 30px;
-        color:#c9c9c9;
-        text-align: center;
-    }
-    .idieng{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 100px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .idicon{
-        margin-bottom: -25px;
-    }
-    .idiesp{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: -10px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        width: 500px;
-    }
-    .idifre{
-        text-align: center;
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 10px;
-        margin-right: 120px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        width: 500px;
-    }
-    #subsub1-nada{
-        margin-top: 100px;
-        margin-bottom: -10px;
-        margin-left: 25px;
-        width: 400px;
-    }
-    .hobbiesbox{
-        margin-top: 100px;
-        width: 400px;
-    }
-    .hobtitle{
-        font-family: 'Patrick Hand', cursive;
-        font-size: 30px;
-        color:#c9c9c9;
-        text-align: center;
-        margin-top: 10px;
-        margin-bottom: -10px;
-        width: 400px;
-        margin-left: 25px;
-    }
-    .cinemadiv{
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: -95px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        width: 400px;
-    }
-    .naturediv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 105px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        width: 400px;
-    }
-    .musicdiv{
-        word-spacing: 5px;
-        margin-top: -5px;
-        margin-left: -95px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .videogamediv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 105px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        width: 400px;
-    }
-    .theatrediv{
-        word-spacing: 5px;
-        margin-top: 1px;
-        margin-left: -95px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .column1{
-        margin-left: 130px;
-    }
-    .travellingdiv{
-        word-spacing: 5px;
-        margin-top: 1px;
-        margin-left: -95px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .photodiv{
-        word-spacing: 5px;
-        margin-top: -55px;
-        margin-left: 105px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .fitnessdiv{
-        word-spacing: 5px;
-        margin-top: -120px;
-        margin-left: 105px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .moneydiv{
-        word-spacing: 5px;
-        margin-top: 55px;
-        margin-left: -95px;
-        font-size: 15px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .booksdiv{
-        word-spacing: 5px;
-        margin-top: -45px;
-        margin-left: 105px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .column2{
-        margin-left: 130px;
-    }
-    .cinema{
-        width: 50px;
-        height: 50px;
-    }
-    .nature{
-        width: 50px;
-        height: 50px;
-    }
-    .music{
-        width: 50px;
-        height: 50px;
-    }
-    .videogame{
-        width: 50px;
-        height: 50px;
-    }
-    .theatre{
-        width: 50px;
-        height: 50px;
-    }
-    .travelling{
-        width: 50px;
-        height: 50px;
-    }
-    .photo{
-        width: 50px;
-        height: 50px;
-    }
-    .fitness{
-        width: 50px;
-        height: 50px;
-    }
-    .money{
-        width: 50px;
-        height: 50px;
-    }
-    .books{
-        width: 50px;
-        height: 50px;
-    }
-    .portbox{
-        margin-top: 90px;
-        width: 400px;
-    }
-    #subsubport{
-        width: 400px;
-        margin-left: 40px;
-    }
-    .contatobox{
-        margin-top: 90px;
-        width: 400px;
-    }
-    .column3{
-        margin-left: 80px;
-        width: 400px;
-    }
-    .behancediv{
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: -45px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .behance{
-        width: 50px;
-        height: 50px;
-    }
-    .instagramdiv{
-        word-spacing: 5px;
-        margin-top: -40px;
-        margin-left: 145px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .instagram{
-        width: 50px;
-        height: 50px;
-    }
-    .youtubediv{
-            word-spacing: 5px;
-            margin-top: 40px;
-            margin-left: -45px;
-            font-size: 25px;
-            font-family: 'Patrick Hand', cursive;
-            color:#c9c9c9;
-            cursor: pointer;
-    }
-    .youtube{
-        width: 50px;
-        height: 50px;
-    }
-    .facebookdiv{
-            word-spacing: 5px;
-            margin-top: -40px;
-            margin-left: 145px;
-            font-size: 25px;
-            font-family: 'Patrick Hand', cursive;
-            color:#c9c9c9;
-            cursor: pointer;
-    }
-    .facebook{
-        width: 50px;
-        height: 50px;
-    }
-    .behancelink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .instagramlink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .youtubelink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .facebooklink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .linkdivin{
-        margin-top: -50px;
-        margin-left: 60px;
-        cursor: pointer;
-    }
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
-    #subsubcontato{
-        width: 400px;
-        margin-left: 30px;
-        margin-bottom: -35px;
+:root {
+  --header-height: 3rem;
+  --hue-color: 250;
+  --first-color: #00ADA2;
+  --first-color-second: #00ADA2;
+  --first-color-alt: #00ADA2;
+  --first-color-lighter: #00ADA2;
+  --text-color-light: hsl(var(--hue-color), 8%, 65%);
+  --body-color: hsl(var(--hue-color), 60%, 99%);
+  --container-color: #fff;
+  --scroll-thumb-color: #00ADA2;
+  --body-font: "Poppins", sans-serif;
+  --big-font-size: 2rem;
+  --h1-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --h3-font-size: 1.125rem;
+  --normal-font-size: 0.938rem;
+  --small-font-size: 0.813rem;
+  --smaller-font-size: 0.75rem;
+  --font-medium: 500;
+  --font-semi-bold: 600;
+  --margin-bottom-0-25: 0.25rem;
+  --margin-bottom-0-5: 0.5rem;
+  --margin-bottom-0-75: 0.75rem;
+  --margin-bottom-0-1: 1rem;
+  --margin-bottom-0-1-5: 1.5rem;
+  --margin-bottom-0-2: 2rem;
+  --margin-bottom-0-2-5: 2.5rem;
+  --margin-bottom-0-3: 3rem;
+  --z-tooltip: 10;
+  --z-fixed: 100;
+  --z-model: 100;
+
+  @media screen and (min-width: 968px) {
+    :root {
+      --big-font-size: 3rem;
+      --h1-font-size: 2.25rem;
+      --h2-font-size: 1.5rem;
+      --h3-font-size: 1.25rem;
+      --normal-font-size: 1rem;
+      --small-font-size: 0.873rem;
+      --smaller-font-size: 0.813rem;
     }
-    .whatsappdiv{
-        word-spacing: 5px;
-        margin-top: 30px;
-        margin-left: 65px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        width: 400px;
-    }
-    .whatsapp{
-        width: 50px;
-        height: 50px;
-    }
-    .instagrampersonaldiv{
-        word-spacing: 5px;
-        margin-top: -5px;
-        margin-left: 65px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .instagrampersonal{
-        width: 50px;
-        height: 50px;
-    }
-    .emaildiv{
-        word-spacing: 5px;
-        margin-top: 15px;
-        margin-left: 63px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .email{
-        width: 55px;
-        height: 55px;
-    }
-    .linkedindiv{
-        word-spacing: 5px;
-        margin-top: 17px;
-        margin-left: 67px;
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        cursor: pointer;
-    }
-    .linkedin{
-        width: 45px;
-        height: 45px;
-    }
-    .linkdivin1{
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-        margin-top: -50px;
-        margin-left: 60px;
-    }
-    .whatsapplink{
-        text-decoration: none;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    .footer{
-        margin-top: 400px;
-        padding-bottom: 100px;
-    }
-    .text-foot{
-        font-size: 25px;
-        font-family: 'Patrick Hand', cursive;
-        color:#c9c9c9;
-    }
-    #hobbies2{
-        display: none;
-    }
+  }
+}
+
+body.dark-theme {
+  --first-color-second: hsl(var(--hue-color), 30%, 8%);
+  --title-color: hsl(var(--hue-color), 8%, 95%);
+  --text-color: hsl(var(--hue-color), 8%, 75%);
+  --input-color: hsl(var(--hue-color), 29%, 16%);
+  --body-color: hsl(var(--hue-color), 28%, 12%);
+  --container-color: hsl(var(--hue-color), 29%, 16%);
+  transition: 0.3s ease-in;
+}
+
+.nav-btns {
+  display: flex;
+  align-items: center;
+}
+
+.change-theme {
+  font-size: 1.25rem;
+  color: var(--title-color);
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.change-theme:hover {
+  color: var(--first-color);
+}
+
+.header,
+.footer-bg {
+  transition: 0.3s ease-in;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0 0 var(--header-height) 0;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  background-color: var(--body-color);
+  color: var(--text-color);
+  transition: 0.3s ease-in;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--title-color);
+  font-weight: var(--font-semi-bold);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* resuable css class  */
+.section {
+  padding: 2rem 0 4rem;
+}
+
+.section-title {
+  font-size: var(--h1-font-size);
+}
+
+.section-subtitle {
+  display: block;
+  font-size: var(--small-font-size);
+  margin-bottom: var(--margin-bottom-0-3);
+}
+
+.section-title,
+.section-subtitle {
+  text-align: center;
+}
+
+/* layout  */
+.container {
+  max-width: 768px;
+  margin-left: var(--margin-bottom-0-1-5);
+  margin-right: var(--margin-bottom-0-1-5);
+}
+
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.header {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: var(--z-fixed);
+  background-color: var(--body-color);
+}
+
+.scroll-header {
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.nav {
+  max-width: 968px;
+  height: var(--header-height);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo,
+.nav-toggle {
+  color: var(--title-color);
+  font-weight: var(--font-medium);
+}
+
+.nav-logo:hover {
+  color: var(--first-color);
+}
+
+.nav-toggle {
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.nav-toggle:hover {
+  color: var(--first-color);
+}
+
+@media screen and (max-width: 767px) {
+  .nav-menu {
+    position: fixed;
+    bottom: -100%;
+    left: 0;
+    width: 100%;
+    background-color: var(--body-color);
+    padding: 2rem 1.5rem 4rem;
+    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 1.5rem 1.5rem 0 0;
+    transition: 0.3s;
+  }
+}
+
+.nav-list {
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.nav-link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: var(--small-font-size);
+  color: var(--title-color);
+  font-weight: var(--font-medium);
+}
+
+.nav-link:hover {
+  color: var(--first-color);
+}
+
+.nav-icon {
+  font-size: 1.2rem;
+}
+
+.nav-close {
+  position: absolute;
+  right: 1.3rem;
+  bottom: 0.5rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: var(--first-color);
+}
+.nav-close:hover {
+  color: var(--first-color-alt);
+}
+
+.show-menu {
+  bottom: 0;
+}
+
+.active-link {
+  color: var(--first-color);
+}
+
+.home-container {
+  gap: 1rem;
+}
+
+.home-content {
+  grid-template-columns: 0.5fr 3fr;
+  padding-top: 3.5rem;
+  align-items: center;
+}
+
+.home-social {
+  display: grid;
+  grid-template-columns: max-content;
+  row-gap: 1rem;
+}
+
+.home-social-icon {
+  font-size: 1.25rem;
+  color: var(--first-color);
+}
+
+.home-social-icon:hover {
+  color: var(--first-color-alt);
+}
+
+.home-blob {
+  width: 200px;
+  fill: var(--first-color);
+}
+
+.home-blob-img {
+  width: 240px;
+}
+
+.home-data {
+  /* grid-column: 1/3; */
+  text-align: center;
+}
+
+.home-title {
+  font-size: var(--big-font-size);
+}
+
+.home-subtitle {
+  font-size: var(--h3-font-size);
+  color: var(--text-color);
+  font-weight: var(--font-medium);
+  margin-bottom: var(--margin-bottom-0-75);
+}
+
+.home-description {
+  margin-bottom: var(--margin-bottom-0-2);
+}
+
+.home-scroll {
+  /* display: none; */
+}
+
+.home-scroll-button {
+  color: var(--first-color);
+  transition: 0.3s;
+}
+
+.home-scroll-button:hover {
+  transform: translateY(0.25rem);
+}
+
+.home-scroll-mouse {
+  margin-right: 0.125rem;
+  width: 24px;
+}
+
+.home-scroll-name {
+  font-size: var(--small-font-size);
+  color: var(--title-color);
+  font-weight: var(--font-medium);
+  margin-right: var(--margin-bottom-0-25);
+}
+
+.home-scroll-arrow {
+  font-size: 1rem;
+}
+
+/* buttons  */
+.button {
+  display: inline-block;
+  background-color: var(--first-color);
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-weight: var(--font-medium);
+}
+.button:hover {
+  background-color: var(--first-color-alt);
+}
+
+.button-icon {
+  font-size: 1.25rem;
+  margin-left: var(--margin-bottom-0-5);
+  transition: 0.3s;
+}
+
+.button-flex {
+  display: inline-flex;
+  align-items: center;
+}
+
+.button-small {
+  padding: 0.75rem 1rem;
+}
+
+.button-white {
+  background-color: #fff;
+  color: var(--first-color);
+}
+
+.button-white:hover {
+  background-color: #f1f1f1;
+}
+
+.button-link {
+  padding: 0;
+  background-color: transparent;
+  color: var(--first-color-alt);
+}
+
+.button-link:hover {
+  background-color: transparent;
+  color: #00ADA2;
+}
+
+.about-img {
+  width: 200px;
+  border: 0.5rem;
+  justify-self: center;
+  align-items: center;
+  filter: drop-shadow(1px 1px 1px var(--first-color-lighter));
+  transition: 0.3s;
+}
+
+.about-img:hover {
+  filter: drop-shadow(2px 2px 2px var(--first-color-lighter));
+}
+
+.about-description {
+  text-align: center;
+  margin-bottom: var(--margin-bottom-0-2-5);
+}
+
+.about-info {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: var(--margin-bottom-0-2-5);
+}
+
+.about-info-title {
+  font-size: var(--h2-font-size);
+  font-weight: var(--font-semi-bold);
+  color: #00ADA2;
+}
+
+.about-info-name {
+  font-size: var(--smaller-font-size);
+}
+
+.about-info-title,
+.about-info-name {
+  display: block;
+  text-align: center;
+}
+
+.about-buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.skills-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skills-name {
+  padding: 0.8rem 1.25rem;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+  font-size: var(--small-font-size);
+  background: var(--first-color-lighter);
+  border-radius: 5px;
+  font-weight: 600;
+  color: #ffffff;
+  transition: 0.3s ease;
+}
+
+.skills-name:hover {
+  background-color: var(--first-color-alt);
+}
+
+.services-container {
+  gap: 1.5rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.services-content {
+  position: relative;
+  background-color: var(--container-color);
+  padding: 3.5rem 0 0 0.5rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  transition: 0.3s;
+}
+
+.services-content:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.services-icon {
+  display: block;
+  font-size: 1.5rem;
+  color: var(--first-color);
+  margin-bottom: var(--margin-bottom-0-1);
+}
+
+.services-title {
+  font-size: var(--h3-font-size);
+  margin-bottom: var(--margin-bottom-0-1);
+  font-weight: var(--font-medium);
+}
+
+.services-button {
+  cursor: pointer;
+  font-size: var(--small-font-size);
+}
+
+.services-button:hover .button-icon {
+  transform: translateX(0.25rem);
+}
+
+.services-box {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+  z-index: var(--z-model);
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.3s;
+}
+
+.services-box-content {
+  position: relative;
+  background-color: var(--container-color);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.services-box-services {
+  row-gap: 1rem;
+}
+
+.services-box-list {
+  display: flex;
+}
+
+.services-box-title {
+  font-size: var(--h3-font-size);
+  font-weight: var(--font-medium);
+  margin-bottom: var(--margin-bottom-0-1-5);
+}
+
+.services-box-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.5rem;
+  color: var(--first-color);
+  cursor: pointer;
+}
+
+.services-list-icon {
+  color: var(--first-color);
+  margin-top: 0.25rem;
+  margin-right: var(--margin-bottom-0-25);
+}
+
+.active-box {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* projects  */
+.portfolio-container {
+  overflow: initial;
+}
+
+.portfolio-content {
+  padding: 0 1.5rem;
+}
+
+.portfolio-img {
+  width: 265px;
+  border-radius: 0.5rem;
+  justify-self: center;
+}
+
+.portfolio-title {
+  font-size: var(--h3-font-size);
+  margin-bottom: var(--margin-bottom-0-5);
+}
+
+.portfolio-description {
+  margin-bottom: var(--margin-bottom-0-75);
+}
+
+.portfolio-button:hover .button-icon {
+  transform: translateX(0.25rem);
+}
+
+/* contact section  */
+.contact-container {
+  row-gap: 3rem;
+}
+
+.contact-info {
+  display: flex;
+  margin-bottom: var(--margin-bottom-0-2);
+}
+
+.contact-icon {
+  font-size: 1.5rem;
+  color: var(--first-color);
+  margin-right: var(--margin-bottom-0-75);
+  margin-top: 15px;
+}
+
+.contact-title {
+  font-size: var(--h3-font-size);
+  font-weight: var(--font-medium);
+}
+
+.contact-subtitle {
+  font-size: var(--small-font-size);
+  color: var(--text-color-light);
+}
+
+/* footer   */
+.footer {
+  padding-top: 2rem;
+}
+
+.footer-container {
+  row-gap: 3.5rem;
+}
+
+.footer-bg {
+  background-color: var(--first-color-second);
+  padding: 2rem 0 3rem;
+}
+
+.footer-title {
+  font-size: var(--h1-font-size);
+  margin-bottom: var(--margin-bottom-0-25);
+}
+
+.footer-subtitle {
+  font-size: var(--small-font-size);
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5rem;
+}
+.footer-link {
+  /* hii  */
+}
+.footer-link:hover {
+  color: var(--first-color-lighter);
+}
+
+.footer-social {
+  font-size: 1.25rem;
+  margin-right: var(--margin-bottom-0-1-5);
+}
+
+.footer-social:hover {
+  color: #007365;
+}
+
+.footer-copy {
+  font-size: var(--smaller-font-size);
+  text-align: center;
+  color: #ffffff;
+  margin-top: var(--margin-bottom-0-3);
+}
+
+.footer-title,
+.footer-subtitle,
+.footer-link,
+.footer-social {
+  color: #fff;
+}
+
+.scrollup {
+  position: fixed;
+  right: 1rem;
+  bottom: -20%;
+  background-color: var(--first-color);
+  opacity: 0.8;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.4rem;
+  z-index: var(--z-tooltip);
+  transition: 0.4s;
+}
+
+.scrollup:hover {
+  background-color: var(--first-color-alt);
+}
+
+.scroll-up-icon {
+  font-size: 1.25rem;
+  color: #fff;
+}
+
+.show-scroll {
+  bottom: 5rem;
+}
+
+/* scroll thumb and bar  */
+::-webkit-scrollbar {
+  width: 0.6rem;
+  background-color: var(--scroll-bar-color);
+  border-radius: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--scroll-thumb-color);
+  border-radius: 0.5rem;
+}
+
+/* media queries  */
+/* small devices */
+@media screen and (max-width: 350px) {
+  .container {
+    margin-left: var(--margin-bottom-0-1);
+    margin-right: var(--margin-bottom-0-1);
+  }
+
+  .nav-menu {
+    padding: 2rem 0.25rem 4rem;
+  }
+
+  .nav-list {
+    column-gap: 0;
+  }
+
+  .home-content {
+    grid-template-columns: 0.25fr 3fr;
+  }
+
+  .home-blob {
+    width: 180px;
+  }
+
+  .skills-name {
+    font-size: var(--small-font-size);
+  }
+
+  .qualification-data {
+    gap: 0.5rem;
+  }
+
+  .services-container {
+    grid-template-columns: max-content;
+    justify-content: center;
+  }
+
+  .services-content {
+    padding-right: 3.5rem;
+  }
+
+  .services-box {
+    padding: 0 0.5rem;
+  }
+
+  .project-img {
+    width: 200px;
+  }
+
+  .testimonial-data,
+  .testimonial-header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .testimonial-img {
+    margin-right: 0;
+    margin-bottom: var(--margin-bottom-0-25);
+  }
+
+  .testimonial-data,
+  .testimonial-description {
+    text-align: center;
+  }
+}
+
+/* medium devices */
+@media screen and (min-width: 568px) {
+  .home-content {
+    grid-template-columns: max-content 1fr 1fr;
+  }
+
+  .home-data {
+    /* grid-column: initial; */
+    text-align: center;
+  }
+
+  .home-title {
+    text-align: center;
+  }
+
+  .home-blob-img {
+    order: 1;
+    justify-self: center;
+  }
+
+  .about-container,
+  .skills-container,
+  .portfolio-content,
+  .project-container,
+  .contact-container,
+  .footer-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .qualification-section {
+    display: grid;
+    grid-template-columns: 0.6fr;
+    justify-content: center;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  .section {
+    padding: 6rem 0 2rem;
+  }
+
+  .section-subtitle {
+    margin-bottom: 4rem;
+  }
+
+  .header {
+    top: 0;
+    bottom: initial;
+  }
+
+  .header,
+  .main,
+  .footer-container {
+    padding: 0 1rem;
+  }
+
+  .nav {
+    height: calc(var(--header-height) + 1.5rem);
+    column-gap: 1rem;
+  }
+
+  .nav-icon,
+  .nav-toggle,
+  .nav-close {
+    display: none !important;
+  }
+
+  .nav-list {
+    display: flex;
+    column-gap: 2rem;
+  }
+
+  .nav-menu {
+    margin-left: auto;
+  }
+
+  .change-theme {
+    margin: 0;
+  }
+
+  .home-content {
+    padding-top: 5.5rem;
+    column-gap: 2rem;
+  }
+
+  .home-blob {
+    width: 270px;
+  }
+  .home-scroll {
+    display: block;
+  }
+  .home-scroll-button {
+    margin-left: 3rem;
+  }
+
+  .about-container {
+    column-gap: 5rem;
+  }
+
+  .about-img {
+    width: 350px;
+  }
+
+  .about-description {
+    text-align: center;
+  }
+
+  .about-info {
+    justify-content: space-between;
+  }
+
+  .about-buttons {
+    justify-content: center;
+    /* justify-content: initial; */
+  }
+
+  .services-container {
+    grid-template-columns: repeat(3, 218px);
+    justify-content: center;
+  }
+
+  .services-icon {
+    font-size: 2rem;
+  }
+
+  .services-content {
+    padding: 6rem 0 2rem 4.5rem;
+  }
+
+  .services-box-content {
+    width: 450px;
+  }
+
+  .footer-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .footer-bg {
+    padding: 3rem 0 3.5rem;
+  }
+
+  .footer-links {
+    flex-direction: row;
+    column-gap: 2rem;
+  }
+
+  .footer-social {
+    justify-self: flex-end;
+  }
+
+  .footer-copy {
+    margin-top: 4.5rem;
+  }
+}
+
+/* large devices */
+@media screen and (min-width: 1024px) {
+  .heder,
+  .main,
+  .footer-container {
+    padding: 0;
+  }
+
+  .home-blob {
+    width: 320px;
+  }
+
+  .home-social {
+    transform: translateX(-6rem);
+  }
+
+  .services-container {
+    grid-template-columns: repeat(3, 238px);
+  }
+
+  .portfolio-content {
+    column-gap: 5rem;
+  }
+
+  .swiper-icon {
+    font-size: 3.5rem;
+  }
+
+  .swiper-button-prev {
+    left: -3.5rem;
+  }
+
+  .swiper-button-next {
+    right: -3.5rem;
+  }
+
+  .swiper-container-horizontal > .swiper-pagination-bullets {
+    bottom: -4.5rem;
+  }
+}
+
+.service-icon {
+  max-width: 70px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+.service-icon-react {
+  max-width: 90px;
+  margin-bottom: 10px;
 }
